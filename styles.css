@@ -16,16 +16,16 @@ body {
 
 h1 {
   margin: 30px;
-  font-family: 'Lobster', cursive;
+  font-family: 'Handlee', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
-  color: #4ECCA3;
+  color: #F7C04A;
 }
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
-  font-family: 'Indie Flower', cursive;
+  color: #F7C04A;
+  font-family: 'Poppins', sans-serif;
 }
 
 img {
@@ -34,8 +34,8 @@ img {
 
 footer {
   margin-top: 5%;
-  color: #EEEEEE;
+  color: #F8F5E4;
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Poppins', sans-serif;
 
 }
